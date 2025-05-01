@@ -2,7 +2,41 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+  <main class="background-section">
+    <div class="overlay"></div>
+    <div class="content">
+      <div class="hero-text">
+        <h1>Welcome to <br><span>CourseDash</span></h1>
+        <p>Organize, visualize, and manage your academic resources efficiently</p>
+        <button>Get Started</button>
+      </div>
+
+      <section class="features">
+      <a asp-controller="Home" asp-action="About" style="text-decoration: none;">
+        <div class="card">
+          <img src="https://img.icons8.com/ios-filled/50/classroom.png" alt="About Us" />
+          <h3>About Us</h3>
+          <p>Access the about us page, and the data model we used to desgin our web app</p>
+        </div>
+      </a>
+        <a asp-controller="Home" asp-action="Read" style="text-decoration: none;">
+            <div class="card">
+                <img src="https://img.icons8.com/ios-filled/50/pie-chart.png" alt="Analytics" />
+                <h3>Data</h3>
+                <p>Use data-driven insights to improve course management and planning</p>
+            </div>
+        </a>
+
+        <a asp-controller="Home" asp-action="SatForm" style="text-decoration: none;">
+            <div class="card">
+                  <img src="https://img.icons8.com/ios-filled/50/edit-file.png" alt="CRUD Actions" />
+                <h3>Want to talk to an Advisor?</h3>
+                <p>Request a meeting with the advisor</p>
+            </div>
+        </a>
+
+          </div>
+        
+      </section>
+    </div>
+  </main>

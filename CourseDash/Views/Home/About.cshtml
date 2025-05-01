@@ -1,0 +1,61 @@
+@{
+    ViewData["Title"] = "About Us";
+}
+
+<main class="about-section">
+    <div class="about-content">
+      <h2>About CourseDash</h2>
+      <p>
+        CourseDash is a centralized platform that allows students, faculty, and administrators
+        to manage academic activities efficiently. The application integrates course overviews, data
+        visualizations, and CRUD operations for easy interaction and management.
+      </p>
+
+      <h3 class="team-heading">Meet the Team</h3>
+      <ul class="team-list">
+        <li class="team-member">
+          <img src="/images/Rohit.png" alt="Rohit Maan">
+          <div class="team-member-info">
+            <strong>Rohit Maan</strong> – Full Stack Developer: Designed Frontend and Backend of application. Crafted the brains and beauty of the app, from structure to style.
+          </div>
+        </li>
+        <li class="team-member">
+          <img src="/images/TejaDamineni.png" alt="Shanmukha Sree Sai Teja Damineni">
+          <div class="team-member-info">
+            <strong>Shanmukha Sree Sai Teja Damineni</strong> – DevOps Engineer: Hosted website on MyUSF portal. Deployed the app like a pro on MyUSF, ensuring it runs smooth and steady Created chart using chart.js, while researching options to make the charts interactive.
+          </div>
+        </li>
+        <li class="team-member">
+          <img src="/images/SriSatya.png" alt="Sri Satya Arumilli">
+          <div class="team-member-info">
+            <strong>Sri Satya Arumilli</strong> – Data Engineer: Designed the data model that would power our application. Designed webpages that would host part of CRUD operations, that would leverage the data model.
+          </div>
+        </li>
+        <li class="team-member">
+          <img src="/images/Aman.png" alt="Aman Jha">
+          <div class="team-member-info">
+            <strong>Aman Jha</strong> – QA Tester: Tested the design flow of the application. Explored every corner of the app to ensure it flows just right.
+          </div>
+        </li>
+      </ul>
+      
+
+
+      <div class="data-model">
+        <h4>Logical Data Model</h4>
+        <img src="/images/data-model.png" alt="Logical Data Model" />
+      </div>
+
+      <a class="github-link" href="https://github.com/rohitmaan10/CourseDash" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/24/000000/github.png" alt="GitHub Logo" style="vertical-align: middle; margin-right: 8px;" />
+        View GitHub Repository
+      </a>
+      <div id="api-data-container"></div>
+                <!-- The data from API will be displayed here -->
+        </div>
+      
+    </div>
+    
+  </main>
+
+  <script src="~/js/api.js"></script>
