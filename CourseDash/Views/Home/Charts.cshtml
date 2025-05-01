@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Graduate Awards Visualization";
+}
+
+<h2 style="color: white;">Graduate Majors: Award Trends & Gender Distribution</h2>
+
+<!-- Filter dropdown -->
+<label for="yearFilter" style="color: white;">Select Year:</label>
+<select id="yearFilter"></select>
+
+<!-- Bar chart for completions -->
+<canvas id="completionsChart" width="800" height="400"></canvas>
+
+<!-- Pie chart for gender split -->
+<h3 style="color: white;">Gender Distribution - General Health Services</h3>
+<canvas id="genderChart" width="400" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>

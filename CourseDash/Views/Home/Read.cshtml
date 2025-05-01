@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Read API Data";
+}
+
+<main class="about-section">
+    <div class="about-content">
+        <div style="margin-bottom: 20px;"></div>
+
+        
+            <!-- Tabs will go here -->
+            <div class="tabs">
+                <button class="tab-button active" data-tab="majors">Most Awarded Graduate Majors</button>
+                <button class="tab-button" data-tab="sat-scores">SAT Scores Over Years</button>
+                <button class="tab-button" data-tab="charts-tab"> View data in graphs</button>
+            </div>
+
+            <!-- Tab content containers -->
+            <div id="majors" class="tab-content active">
+                <!-- Majors table will load here -->
+                <div id="api-data-container"></div>
+            </div>
+
+            <div id="sat-scores" class="tab-content">
+                <!-- SAT scores table will load here -->
+            </div>
+            <div id="charts-tab" class="tab-content" style="display: none;">
+    <!-- Year Filter -->
+                <div style="margin-bottom: 20px;">
+                    <label for="yearFilter" style="color: white;"><strong>Select Year:</strong></label>
+                    <select id="yearFilter"></select>
+                </div>
+
+                <!-- Charts -->
+                <h3 style="color: white;">Graduate Majors: Award Trends</h3>
+                <canvas id="barChart" width="400" height="200"></canvas>
+                <h3 style="color: white; margin-top:30px;"> Gender Distribution </h3>
+                <canvas id="pieChart" width="400" height="200" style="margin-top: 30px;"></canvas>
+                <h3 style="color: white; margin-top:30px;"> sat-scores Scores Over the Years</thead> </h3>
+                <canvas id="satLineChart" width="400" height="200" style="margin-top: 40px;"></canvas>
+            </div>
+
+        </div>
+</main>
+<script src="~/js/api.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="~/js/charts.js"></script>
