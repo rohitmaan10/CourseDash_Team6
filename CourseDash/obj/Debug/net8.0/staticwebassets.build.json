@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ad/+A1Xd8YSjkwhMqoUvwg7qKMjUC4IwJ3WbIMrEF+A=",
+  "Hash": "vDqDWLLAQTb0363m7mpj9nzPTaAp58w5XCoVoJdsghA=",
   "Source": "CourseDash",
   "BasePath": "_content/CourseDash",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/TejaDamineni.png"
+    },
+    {
+      "Identity": "/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
+      "SourceId": "CourseDash",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/wwwroot/",
+      "BasePath": "_content/CourseDash",
+      "RelativePath": "js/api.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/api.js"
     },
     {
       "Identity": "/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
