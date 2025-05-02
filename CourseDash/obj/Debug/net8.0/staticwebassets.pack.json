@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets/images/event-feed-icon.png"
     },
     {
+      "Id": "/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
+      "PackagePath": "staticwebassets/js/api.js"
+    },
+    {
       "Id": "/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
