@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseDash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9abae71732e07007a9280df41013798bd96f99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b48646d5517792beaa060c26b4cf099b6697400")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseDash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseDash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
