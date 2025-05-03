@@ -9,59 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseDash
 build_property.RootNamespace = CourseDash
-build_property.ProjectDir = /Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/
+build_property.ProjectDir = /Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash
+build_property.MSBuildProjectDirectory = /Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/About.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/Charts.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/Charts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DaGFydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/Index.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/Privacy copy.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/Privacy copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5IGNvcHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/Privacy.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/Read.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/Read.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWFkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Home/SatForm.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Home/SatForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TYXRGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Shared/Error.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/_ViewImports.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/_ViewStart.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tjdamineni/Desktop/Grad_Work/AppDev/Draft_ADA/CourseDash_Team6/CourseDash/Views/Shared/_Layout.cshtml]
+[/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1p5tsyf42x
