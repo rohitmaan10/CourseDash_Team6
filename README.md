@@ -1,4 +1,4 @@
-# 🎓 Course Dashboard
+# 🎓 CourseDash
 
 ## 📝 1. Overview of CRUD Operations
 

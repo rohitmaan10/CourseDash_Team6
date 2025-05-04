@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RH9ePFT6HV+6WqNeD/8mxAwMlVuwV4kwUixGj/xVNmI=",
+  "Hash": "IbdC3KrC5iho+MWWRNVha4XA5B+lemrsW4CtqHwsvHg=",
   "Source": "CourseDash",
   "BasePath": "_content/CourseDash",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CourseDash/wwwroot",
       "Source": "CourseDash",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
       "SourceId": "CourseDash",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "CourseDash#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "ucIjFHIOyd5vFiUf8NE4gIFUxSESVDfr6hGTk9YDHIM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css"
+      "OriginalItemSpec": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
       "SourceId": "CourseDash",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "CourseDash#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "ucIjFHIOyd5vFiUf8NE4gIFUxSESVDfr6hGTk9YDHIM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css"
+      "OriginalItemSpec": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/Aman#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot/images/Aman.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/course#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot/images/course.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/data-model#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot/images/data-model.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/Rohit#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot/images/Rohit.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/SriSatya#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot/images/SriSatya.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "images/TejaDamineni#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot/images/TejaDamineni.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "js/api#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,73 @@
       "OriginalItemSpec": "wwwroot/js/api.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/charts.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "BasePath": "_content/CourseDash",
+      "RelativePath": "js/charts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cld2rwutna",
+      "Integrity": "UEwKU90PxmUy6xuSy50JBZ2ngIAUnGNAKxb+OW6m4aw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/charts.js"
+    },
+    {
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/formMajors.js",
+      "SourceId": "CourseDash",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "BasePath": "_content/CourseDash",
+      "RelativePath": "js/formMajors#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqtnr1jlci",
+      "Integrity": "uvpSg0J0hXyQqhmI+OJGFHytwcftUMLyQMmjevUcEL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/formMajors.js"
+    },
+    {
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/satCrud.js",
+      "SourceId": "CourseDash",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "BasePath": "_content/CourseDash",
+      "RelativePath": "js/satCrud#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3zj1c31gzj",
+      "Integrity": "oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/satCrud.js"
+    },
+    {
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
+      "SourceId": "CourseDash",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -290,10 +353,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +395,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +437,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +458,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +479,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +500,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +521,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +542,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +563,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +584,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +605,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +626,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +647,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +668,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +689,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +710,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +752,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +773,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +794,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +836,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +857,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +878,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +899,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +920,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +941,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +962,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +983,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1235,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1298,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1403,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
+      "ContentRoot": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1490,7 +1553,7 @@
   "Endpoints": [
     {
       "Route": "CourseDash.1ugue5xw51.bundle.scp.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1511,7 +1574,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1535,7 +1598,7 @@
     },
     {
       "Route": "CourseDash.1ugue5xw51.styles.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1556,7 +1619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,7 +1643,7 @@
     },
     {
       "Route": "CourseDash.bundle.scp.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/projectbundle/CourseDash.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1601,7 +1664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,7 +1680,7 @@
     },
     {
       "Route": "CourseDash.styles.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/Debug/net8.0/scopedcss/bundle/CourseDash.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1638,7 +1701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1654,7 +1717,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1675,7 +1738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 21:11:40 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1691,7 +1754,7 @@
     },
     {
       "Route": "css/site.esqbc2uunn.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1712,7 +1775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 21:11:40 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1736,7 +1799,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1757,7 +1820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 21:26:08 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1773,7 +1836,7 @@
     },
     {
       "Route": "css/style.op474tz9uy.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1794,7 +1857,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 21:26:08 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1818,7 +1881,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1839,7 +1902,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1863,7 +1926,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1884,7 +1947,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1900,7 +1963,7 @@
     },
     {
       "Route": "images/Aman.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1921,7 +1984,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1937,7 +2000,7 @@
     },
     {
       "Route": "images/Aman.t3rley8rxh.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Aman.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1958,7 +2021,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1982,7 +2045,7 @@
     },
     {
       "Route": "images/course.f8kwpr90ak.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2003,7 +2066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2027,7 +2090,7 @@
     },
     {
       "Route": "images/course.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/course.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2048,7 +2111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2064,7 +2127,7 @@
     },
     {
       "Route": "images/data-model.52fzzkxf0w.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2085,7 +2148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 19:00:36 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2109,7 +2172,7 @@
     },
     {
       "Route": "images/data-model.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2130,7 +2193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 19:00:36 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,7 +2209,7 @@
     },
     {
       "Route": "images/Rohit.73g945v2y5.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2167,7 +2230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2191,7 +2254,7 @@
     },
     {
       "Route": "images/Rohit.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2212,7 +2275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2228,7 +2291,7 @@
     },
     {
       "Route": "images/SriSatya.f27p75jkxa.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2249,7 +2312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2273,7 +2336,7 @@
     },
     {
       "Route": "images/SriSatya.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/SriSatya.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2294,7 +2357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2310,7 +2373,7 @@
     },
     {
       "Route": "images/TejaDamineni.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2331,7 +2394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2347,7 +2410,7 @@
     },
     {
       "Route": "images/TejaDamineni.vptwzluhg2.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/TejaDamineni.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2368,7 +2431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2392,7 +2455,7 @@
     },
     {
       "Route": "js/api.ihhaaw6fzr.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2413,7 +2476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2437,7 +2500,7 @@
     },
     {
       "Route": "js/api.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/api.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2458,7 +2521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2473,8 +2536,254 @@
       ]
     },
     {
+      "Route": "js/charts.cld2rwutna.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/charts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UEwKU90PxmUy6xuSy50JBZ2ngIAUnGNAKxb+OW6m4aw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:40:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cld2rwutna"
+        },
+        {
+          "Name": "label",
+          "Value": "js/charts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UEwKU90PxmUy6xuSy50JBZ2ngIAUnGNAKxb+OW6m4aw="
+        }
+      ]
+    },
+    {
+      "Route": "js/charts.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/charts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UEwKU90PxmUy6xuSy50JBZ2ngIAUnGNAKxb+OW6m4aw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:40:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UEwKU90PxmUy6xuSy50JBZ2ngIAUnGNAKxb+OW6m4aw="
+        }
+      ]
+    },
+    {
+      "Route": "js/formMajors.eqtnr1jlci.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/formMajors.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uvpSg0J0hXyQqhmI+OJGFHytwcftUMLyQMmjevUcEL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqtnr1jlci"
+        },
+        {
+          "Name": "label",
+          "Value": "js/formMajors.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uvpSg0J0hXyQqhmI+OJGFHytwcftUMLyQMmjevUcEL8="
+        }
+      ]
+    },
+    {
+      "Route": "js/formMajors.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/formMajors.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uvpSg0J0hXyQqhmI+OJGFHytwcftUMLyQMmjevUcEL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uvpSg0J0hXyQqhmI+OJGFHytwcftUMLyQMmjevUcEL8="
+        }
+      ]
+    },
+    {
+      "Route": "js/satCrud.3zj1c31gzj.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/satCrud.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zj1c31gzj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/satCrud.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A="
+        }
+      ]
+    },
+    {
+      "Route": "js/satCrud.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/satCrud.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2495,7 +2804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2511,7 +2820,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2532,7 +2841,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2556,7 +2865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2577,7 +2886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2601,7 +2910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2622,7 +2931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2638,7 +2947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2659,7 +2968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2675,7 +2984,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2696,7 +3005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2720,7 +3029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2741,7 +3050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2757,7 +3066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2778,7 +3087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2802,7 +3111,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2823,7 +3132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2839,7 +3148,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2860,7 +3169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2884,7 +3193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2905,7 +3214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2921,7 +3230,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2942,7 +3251,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2966,7 +3275,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2987,7 +3296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3003,7 +3312,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3024,7 +3333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3040,7 +3349,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3061,7 +3370,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3077,7 +3386,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3098,7 +3407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3122,7 +3431,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3143,7 +3452,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3167,7 +3476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3188,7 +3497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3212,7 +3521,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3233,7 +3542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3257,7 +3566,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3278,7 +3587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3294,7 +3603,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3315,7 +3624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3339,7 +3648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3360,7 +3669,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3376,7 +3685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3397,7 +3706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3413,7 +3722,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3434,7 +3743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3450,7 +3759,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3471,7 +3780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3495,7 +3804,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3516,7 +3825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3540,7 +3849,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3561,7 +3870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3585,7 +3894,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3606,7 +3915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3622,7 +3931,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3643,7 +3952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3667,7 +3976,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3688,7 +3997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3704,7 +4013,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3725,7 +4034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3741,7 +4050,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3762,7 +4071,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3778,7 +4087,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3799,7 +4108,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3823,7 +4132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3844,7 +4153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3868,7 +4177,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3889,7 +4198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3905,7 +4214,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3926,7 +4235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3950,7 +4259,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3971,7 +4280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3987,7 +4296,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4008,7 +4317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4032,7 +4341,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4053,7 +4362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4069,7 +4378,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4090,7 +4399,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4106,7 +4415,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4127,7 +4436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4151,7 +4460,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4172,7 +4481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4196,7 +4505,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4217,7 +4526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4233,7 +4542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4254,7 +4563,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4278,7 +4587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4299,7 +4608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4315,7 +4624,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4336,7 +4645,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4352,7 +4661,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4373,7 +4682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4397,7 +4706,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4418,7 +4727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4434,7 +4743,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4455,7 +4764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4479,7 +4788,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4500,7 +4809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4524,7 +4833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4545,7 +4854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4561,7 +4870,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4582,7 +4891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4606,7 +4915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4627,7 +4936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4643,7 +4952,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4664,7 +4973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4688,7 +4997,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4709,7 +5018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4725,7 +5034,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4746,7 +5055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4770,7 +5079,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4791,7 +5100,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4807,7 +5116,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4828,7 +5137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4852,7 +5161,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4873,7 +5182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4889,7 +5198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4910,7 +5219,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4934,7 +5243,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4955,7 +5264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4971,7 +5280,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4992,7 +5301,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5016,7 +5325,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5037,7 +5346,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5053,7 +5362,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5074,7 +5383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5098,7 +5407,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5119,7 +5428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5135,7 +5444,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5156,7 +5465,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5180,7 +5489,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5201,7 +5510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5217,7 +5526,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5238,7 +5547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5262,7 +5571,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5283,7 +5592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5299,7 +5608,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5320,7 +5629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5344,7 +5653,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5365,7 +5674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5389,7 +5698,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5410,7 +5719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5426,7 +5735,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5447,7 +5756,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5471,7 +5780,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5492,7 +5801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5508,7 +5817,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5529,7 +5838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5545,7 +5854,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5566,7 +5875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5590,7 +5899,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5611,7 +5920,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5627,7 +5936,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5648,7 +5957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5672,7 +5981,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5693,7 +6002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5709,7 +6018,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5730,7 +6039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5746,7 +6055,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5767,7 +6076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5791,7 +6100,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5812,7 +6121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5836,7 +6145,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5857,7 +6166,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5873,7 +6182,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5894,7 +6203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5918,7 +6227,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5939,7 +6248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5955,7 +6264,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5976,7 +6285,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5992,7 +6301,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6013,7 +6322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6029,7 +6338,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6050,7 +6359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6074,7 +6383,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6095,7 +6404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6119,7 +6428,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6140,7 +6449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6164,7 +6473,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6185,7 +6494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6201,7 +6510,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6222,7 +6531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6246,7 +6555,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6267,7 +6576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6291,7 +6600,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6312,7 +6621,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6328,7 +6637,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6349,7 +6658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6373,7 +6682,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6394,7 +6703,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6410,7 +6719,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6431,7 +6740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6455,7 +6764,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6476,7 +6785,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6492,7 +6801,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6513,7 +6822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6537,7 +6846,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6558,7 +6867,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6574,7 +6883,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6595,7 +6904,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6619,7 +6928,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6640,7 +6949,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6656,7 +6965,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6677,7 +6986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6693,7 +7002,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6714,7 +7023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6738,7 +7047,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6759,7 +7068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6775,7 +7084,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6796,7 +7105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6820,7 +7129,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6841,7 +7150,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6857,7 +7166,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6878,7 +7187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6902,7 +7211,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6923,7 +7232,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6947,7 +7256,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6968,7 +7277,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6984,7 +7293,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7005,7 +7314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7029,7 +7338,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7050,7 +7359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7074,7 +7383,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7095,7 +7404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7111,7 +7420,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7132,7 +7441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7148,7 +7457,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7169,7 +7478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7193,7 +7502,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7214,7 +7523,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 18:47:09 GMT"
+          "Value": "Sun, 04 May 2025 23:36:18 GMT"
         },
         {
           "Name": "Cache-Control",
