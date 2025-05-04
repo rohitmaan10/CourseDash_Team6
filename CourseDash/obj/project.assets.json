@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/rohitmaan/.nuget/packages/": {}
+    "/Users/Aman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
+      "projectUniqueName": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
       "projectName": "CourseDash",
-      "projectPath": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
-      "packagesPath": "/Users/rohitmaan/.nuget/packages/",
-      "outputPath": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/",
+      "projectPath": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
+      "packagesPath": "/Users/Aman/.nuget/packages/",
+      "outputPath": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rohitmaan/.nuget/NuGet/NuGet.Config"
+        "/Users/Aman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
