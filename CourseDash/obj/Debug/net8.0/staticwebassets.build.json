@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9ytq+vWijiowINkTpc9nB+GJXa7iQeMWRlzKK39rNLg=",
+  "Hash": "gd9NuLru4DjsnpwONwGgBmkBnNLvAhHbzOsmiXfs71o=",
   "Source": "CourseDash",
   "BasePath": "_content/CourseDash",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yhtbdf22i7",
-      "Integrity": "FtONVF8mEzJq3/JQI7rgZNEcnu1TYMUOBBDMGdMTxFU=",
+      "Fingerprint": "44p3f11rza",
+      "Integrity": "HHsHX9cOHpapLMHgR4zJlBrvqh+KwR33hbu+a8JTLiU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/style.css"
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "wwwroot/images/course.png"
     },
     {
-      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-logic-model.png",
+      "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
       "SourceId": "CourseDash",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/",
       "BasePath": "_content/CourseDash",
-      "RelativePath": "images/data-logic-model#[.{fingerprint}]?.png",
+      "RelativePath": "images/data-model#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -178,11 +178,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s4vo10vcap",
-      "Integrity": "ZLtoA9E8NRPMzG3uTVtsAMHne+AkL5ND8wvZh9t7mL4=",
+      "Fingerprint": "52fzzkxf0w",
+      "Integrity": "/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/data-logic-model.png"
+      "OriginalItemSpec": "wwwroot/images/data-model.png"
     },
     {
       "Identity": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/Rohit.png",
@@ -1735,6 +1735,51 @@
       ]
     },
     {
+      "Route": "css/style.44p3f11rza.css",
+      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HHsHX9cOHpapLMHgR4zJlBrvqh+KwR33hbu+a8JTLiU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 20:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44p3f11rza"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HHsHX9cOHpapLMHgR4zJlBrvqh+KwR33hbu+a8JTLiU="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
       "Selectors": [],
@@ -1745,7 +1790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8954"
+          "Value": "9004"
         },
         {
           "Name": "Content-Type",
@@ -1753,11 +1798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FtONVF8mEzJq3/JQI7rgZNEcnu1TYMUOBBDMGdMTxFU=\""
+          "Value": "\"HHsHX9cOHpapLMHgR4zJlBrvqh+KwR33hbu+a8JTLiU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 00:34:57 GMT"
+          "Value": "Sun, 04 May 2025 20:26:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1767,52 +1812,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FtONVF8mEzJq3/JQI7rgZNEcnu1TYMUOBBDMGdMTxFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.yhtbdf22i7.css",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/css/style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8954"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FtONVF8mEzJq3/JQI7rgZNEcnu1TYMUOBBDMGdMTxFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 04 May 2025 00:34:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yhtbdf22i7"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FtONVF8mEzJq3/JQI7rgZNEcnu1TYMUOBBDMGdMTxFU="
+          "Value": "sha256-HHsHX9cOHpapLMHgR4zJlBrvqh+KwR33hbu+a8JTLiU="
         }
       ]
     },
@@ -2063,8 +2063,8 @@
       ]
     },
     {
-      "Route": "images/data-logic-model.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-logic-model.png",
+      "Route": "images/data-model.52fzzkxf0w.png",
+      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2073,7 +2073,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74995"
+          "Value": "63468"
         },
         {
           "Name": "Content-Type",
@@ -2081,48 +2081,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZLtoA9E8NRPMzG3uTVtsAMHne+AkL5ND8wvZh9t7mL4=\""
+          "Value": "\"/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 23:50:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZLtoA9E8NRPMzG3uTVtsAMHne+AkL5ND8wvZh9t7mL4="
-        }
-      ]
-    },
-    {
-      "Route": "images/data-logic-model.s4vo10vcap.png",
-      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-logic-model.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74995"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZLtoA9E8NRPMzG3uTVtsAMHne+AkL5ND8wvZh9t7mL4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 03 May 2025 23:50:20 GMT"
+          "Value": "Sun, 04 May 2025 19:00:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2132,15 +2095,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s4vo10vcap"
+          "Value": "52fzzkxf0w"
         },
         {
           "Name": "label",
-          "Value": "images/data-logic-model.png"
+          "Value": "images/data-model.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZLtoA9E8NRPMzG3uTVtsAMHne+AkL5ND8wvZh9t7mL4="
+          "Value": "sha256-/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/data-model.png",
+      "AssetFile": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/wwwroot/images/data-model.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 19:00:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA="
         }
       ]
     },
