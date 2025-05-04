@@ -19,8 +19,6 @@
     background-size: cover;
     background-attachment: fixed;
   }
-
-  
   
   /* Navigation Bar */
   .navbar {
@@ -48,12 +46,14 @@
     font-size: 1.5rem;
     font-weight: bold;
     color: white;
+    text-decoration: none;
   }
   
   .nav-links {
     list-style: none;
     display: flex;
     gap: 2rem;
+    margin-left: auto;
   }
 
   .nav-links li {
