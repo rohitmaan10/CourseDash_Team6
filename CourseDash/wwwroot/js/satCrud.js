@@ -9,13 +9,20 @@
     form.addEventListener("submit", function (e) {
         e.preventDefault();
 
+        const name = document.getElementById("name").value;
+        const email = document.getElementById("email").value;
         const satScore = document.getElementById("satScore").value;
         const major = document.getElementById("major").value;
         const message = document.getElementById("message").value;
         const entryId = form.getAttribute("data-edit-id");
 
-        if (!satScore || !major || !message) {
+        if (!name || !email || !satScore || !major || !message) {
             alert("Please fill in all fields.");
+            return;
+        }
+
+        if (satScore > 1600 || satScore < 400) {
+            alert("SAT Score must be between 400 and 1600.");
             return;
         }
 
@@ -25,7 +32,7 @@
             // Update existing entry
             const updatedEntries = entries.map(entry => {
                 if (entry.id === parseInt(entryId)) {
-                    return { ...entry, satScore, major, message };
+                    return { ...entry, name, email, satScore, major, message };
                 }
                 return entry;
             });
@@ -35,6 +42,8 @@
             // Add new entry
             const newEntry = {
                 id: Date.now(),
+                name,
+                email,
                 satScore,
                 major,
                 message
@@ -61,6 +70,8 @@
     function appendEntryToTable(entry) {
         const row = document.createElement("tr");
         row.innerHTML = `
+            <td style="padding: 8px;text-align: center;">${entry.name}</td>
+            <td style="padding: 8px;text-align: center;">${entry.email}</td>
             <td style="padding: 8px;text-align: center;">${entry.satScore}</td>
             <td style="padding: 8px;text-align: center;">${entry.major}</td>
             <td style="padding: 8px;text-align: center;">${entry.message}</td>
@@ -82,6 +93,8 @@
         const entry = entries.find(e => e.id === id);
         if (!entry) return;
 
+        document.getElementById("name").value = entry.name;
+        document.getElementById("email").value = entry.email;
         document.getElementById("satScore").value = entry.satScore;
         document.getElementById("major").value = entry.major;
         document.getElementById("message").value = entry.message;
