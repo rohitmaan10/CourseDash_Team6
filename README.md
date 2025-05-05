@@ -23,7 +23,7 @@
 
 ### ✅ 2. Data Not Persisting After Refresh
 - **Challenge:** Submitted entries vanished upon page refresh.  
-- **Solution:** Implement `localStorage`, `sessionStorage`, or save entries to a backend database.
+- **Solution:** Implement `localStorage`, `sessionStorage`, or save entries to backend database.
 
 ### ✅ 3. Invalid SAT Score or Empty Fields
 - **Challenge:** Users submitted invalid (e.g., non-numeric) or empty data.  
