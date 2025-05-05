@@ -21,7 +21,23 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+    name: "about",
+    pattern: "about",
+    defaults: new { controller = "Home", action = "About" });
+
+app.MapControllerRoute(
+    name: "data",
+    pattern: "data",
+    defaults: new { controller = "Home", action = "Read" });
+
+app.MapControllerRoute(
+    name: "advisor",
+    pattern: "advisor",
+    defaults: new { controller = "Home", action = "SatForm" });
+
+app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.Run();
+app.Run(); 
+
