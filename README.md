@@ -13,7 +13,7 @@
 
 ## 🗂 2. Data Model (ERD Diagram)
 
-![data-model](https://github.com/user-attachments/assets/107ff249-88cd-4b68-9109-9c30717ce7f7)
+![data-logic-model](https://github.com/user-attachments/assets/d985831b-4f37-4e90-b4dd-32deaf5ea15c)
 
 ## 🔧 3. Notable Technical Challenges and Solutions
 
