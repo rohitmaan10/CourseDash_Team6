@@ -7,15 +7,21 @@
     <h2>Submit Your SAT Score and Major Interest</h2>
 
     <form id="satForm">
-      <label for="satScore">SAT Score:</label>
+      <label for="name">Full Name</label>
+      <input type="text" id="name" required />
+
+      <label for="email">Email</label>
+      <input type="email" id="email" required />
+
+      <label for="satScore">SAT Score</label>
       <input type="number" id="satScore" required />
 
-      <label for="major">Major:</label>
+      <label for="major">Major</label>
       <select id="major" required>
         <option value="">Loading majors...</option>
       </select>
 
-      <label for="message">Message to Advisor:</label>
+      <label for="message">Message to Advisor</label>
       <textarea id="message" rows="4" cols="50" required></textarea>
 
       <button type="submit">Submit</button>
@@ -28,6 +34,8 @@
       <thead>
         <tr><td colspan="4" style="height: 16px;"></td></tr> 
         <tr style="color: white; border-bottom: 1px solid white;"></tr>
+          <th>Name</th>
+          <th>Email</th>
           <th>SAT Score</th>
           <th>Major</th>
           <th>Message</th>

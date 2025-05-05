@@ -108,23 +108,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\course.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\data-model.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\data-logic-model.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CourseDash</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CourseDash</BasePath>
-      <RelativePath>images/data-model.png</RelativePath>
+      <RelativePath>images/data-logic-model.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>52fzzkxf0w</Fingerprint>
-      <Integrity>/dkFkzYS4BxheXuS/QB0hInINz7rZrdiZOFfOty6uKA=</Integrity>
+      <Fingerprint>7o6dza28y9</Fingerprint>
+      <Integrity>B+6qWf1/0OkaOcPTXbwqcQpvZibBhvVMiRCWD5SPJYk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\data-model.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\data-logic-model.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Rohit.png'))">
       <SourceType>Package</SourceType>
@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3zj1c31gzj</Fingerprint>
-      <Integrity>oVwZc3OOL7/BQJopcce6lrS4mrw1TvPUXQgOzRbcr8A=</Integrity>
+      <Fingerprint>rhrkmcqiu7</Fingerprint>
+      <Integrity>0ZH7OM9VsGbz1lsIlQeWIywpj/NxofUy/yWs5I/5ocQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\satCrud.js'))</OriginalItemSpec>

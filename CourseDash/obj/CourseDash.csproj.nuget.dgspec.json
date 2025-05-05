@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj": {}
+    "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj": {}
   },
   "projects": {
-    "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj": {
+    "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
+        "projectUniqueName": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
         "projectName": "CourseDash",
-        "projectPath": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
-        "packagesPath": "/Users/Aman/.nuget/packages/",
-        "outputPath": "/Users/Aman/Desktop/CourseDash_Team6/CourseDash/obj/",
+        "projectPath": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/CourseDash.csproj",
+        "packagesPath": "/Users/rohitmaan/.nuget/packages/",
+        "outputPath": "/Users/rohitmaan/Desktop/CourseDash_Team6/CourseDash/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Aman/.nuget/NuGet/NuGet.Config"
+          "/Users/rohitmaan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
